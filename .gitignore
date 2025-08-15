@@ -1,0 +1,66 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+.venv/
+venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual Environment
+finoptima_env/
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data files (if large)
+*.csv
+*.xlsx
+*.json
+data/
+datasets/
+
+# Model files (if large)
+*.h5
+*.pkl
+*.joblib
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Log files
+*.log
+
+# Test files that might be temporary
+test_*.py
+*_test.py
+
+# Backup files
+*.bak
+*.backup
