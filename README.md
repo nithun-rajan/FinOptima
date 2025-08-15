@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # FinOptima - AI-Powered Finance Optimization Suite
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/downloads/)
@@ -304,7 +303,3 @@ For questions, issues, or contributions:
 ---
 
 *This project demonstrates production-grade quantitative finance skills suitable for roles at hedge funds, investment banks, and fintech companies. The codebase showcases advanced concepts in portfolio theory, machine learning, reinforcement learning, and financial risk management.*
-=======
-# FinOptima
-FinOptima is a Streamlit finance suite combining Markowitz portfolio optimization, LSTM+XGBoost price forecasting (MAPE &lt; 5%, R² > 0.92), and PPO/DQN trading with +18% annualized backtest ROI, powered by real-time data and automated backtesting.
->>>>>>> fbab4ef07a63c744c6e220aa9535390ef2c6a26b
