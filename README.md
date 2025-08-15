@@ -84,32 +84,53 @@ finoptima/
 - Python 3.10 or higher
 - pip package manager
 
-### Installation
+## Installation
 
-1. **Clone the repository**
+### 1. Clone the repository
+
 ```bash
 git clone https://github.com/nithun-rajan/FinOptima.git
 cd FinOptima
 ```
 
-2. **Create virtual environment** (recommended)
+### 2. Create and activate a Python 3.10 virtual environment
+
 ```bash
-python -m venv FinOptima_env
-source FinOptima_env/bin/activate  # On Windows: finoptima_env\Scripts\activate
+python3.10 -m venv finoptima_env
+source finoptima_env/bin/activate
 ```
 
-3. **Install dependencies**
+> **Note:**  
+> If you get a "python3.10 not found" error, install it with:  
+> `brew install python@3.10`
+
+### 3. Upgrade pip and essential build tools
+
+```bash
+pip install --upgrade pip setuptools wheel
+```
+
+### 4. Install dependencies
+
 ```bash
 pip install -r requirements.txt
 ```
 
-4. **Run the application**
+### 5. (Optional, Apple Silicon GPU acceleration)
+
+```bash
+pip install tensorflow-metal
+```
+
+### 6. Run the application
+
 ```bash
 streamlit run app.py
 ```
 
-5. **Open in browser**
-Navigate to `http://localhost:8501`
+### 7. Open in browser
+
+Navigate to [http://localhost:8501](http://localhost:8501)
 
 ## 📊 Usage Guide
 
