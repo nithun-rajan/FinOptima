@@ -94,7 +94,7 @@ cd FinOptima
 
 2. **Create virtual environment** (recommended)
 ```bash
-python -m venv finoptima_env
+python -m venv FinOptima_env
 source FinOptima_env/bin/activate  # On Windows: finoptima_env\Scripts\activate
 ```
 
