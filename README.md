@@ -88,8 +88,8 @@ finoptima/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/finoptima.git
-cd finoptima
+git clone https://github.com/nithun-rajan/FinOptima.git
+cd FinOptima
 ```
 
 2. **Create virtual environment** (recommended)
