@@ -88,14 +88,14 @@ finoptima/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/finoptima.git
-cd finoptima
+git clone https://github.com/nithun-rajan/FinOptima.git
+cd FinOptima
 ```
 
 2. **Create virtual environment** (recommended)
 ```bash
-python -m venv finoptima_env
-source finoptima_env/bin/activate  # On Windows: finoptima_env\Scripts\activate
+python -m venv FinOptima_env
+source FinOptima_env/bin/activate  # On Windows: finoptima_env\Scripts\activate
 ```
 
 3. **Install dependencies**
@@ -279,7 +279,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions, issues, or contributions:
 - **Issues**: GitHub Issues page
 - **Discussions**: GitHub Discussions
-- **Email**: your.email@example.com
+- **Email**: ns9g24@soton.ac.uk
 
 ## 🔮 Future Roadmap
 
@@ -292,14 +292,4 @@ For questions, issues, or contributions:
 - [ ] **Performance attribution** analysis
 - [ ] **Mobile-responsive** UI improvements
 
----
 
-## ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/finoptima&type=Date)](https://star-history.com/#yourusername/finoptima&Date)
-
-**Built with ❤️ for the quantitative finance community**
-
----
-
-*This project demonstrates production-grade quantitative finance skills suitable for roles at hedge funds, investment banks, and fintech companies. The codebase showcases advanced concepts in portfolio theory, machine learning, reinforcement learning, and financial risk management.*
